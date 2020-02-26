@@ -110,13 +110,13 @@ p{
     
 }
 .images_1{
-    background: url(.../img/image\ 1.png) no-repeat;
+    background: url(img/image\ 1.png) no-repeat;
     height: 600px;
     width: 400px;
     margin-bottom: 43px;
 }
 .images_2{
-    background: url(.../img/image\ 2.png) no-repeat;
+    background: url(img/image\ 2.png) no-repeat;
     height: 600px;
     width: 400px;
 }
